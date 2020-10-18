@@ -1,0 +1,6 @@
+
+spring.datasource.url=jdbc:mysql://localhost:3306/handon
+spring.datasource.username=YYYYY
+spring.datasource.password=XXXXX
+spring.jpa.show-sql=true
+
