@@ -19,7 +19,7 @@ Entre as dependênicas mais importantes estão:
   - Flyway DB 6.4.4
   - MySQL 5.7
 
-Embora curl possa viabilizar os testes, utilizamos o Postman como ferramenta para os requests à API.
+Embora curl possa viabilizar os testes, utilizamos o Postman como ferramenta para os requests a API.
 A configuração está disponivel na estrutura do projeto em resources/requests.
 
 
