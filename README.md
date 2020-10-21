@@ -4,8 +4,8 @@
 </h2>
 
 
-## Microsserviços, montado em Java com Spring Tools Suite 4:
-  Rápida exposição de microsserviços para manipulação de informações sobre a entidade Cliente (única), o projeto é um template demonstrando ganhos de produtividadepromovidos pelo Spring Framework. 
+#### Microsserviços (CRUD) -  montado em Java com Spring Tools Suite 4:
+  Rápida exposição de microsserviços para manipulação de informações sobre a entidade Cliente (única), o projeto é um template demonstrando ganhos de produtividade promovidos pelo Spring Framework. 
   
   Sinteticamente, o uso da padronização de configurações proposta pelo *Spring Boot* nos garante a minima atuação na composição de serviços e dependências necessárias a aplicações. Fundado sobre o MAVEN e servido pelos Spring Starters, componentes e módulos são rapidamente inseridos no contexto do projeto. Nota-se também a decorrente combinação do recurso de metadados - Java Annotations (inserido lá na versão 1.5) - simplificando a alocação de recursos com o Wiring. 
   
