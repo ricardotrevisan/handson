@@ -12,7 +12,7 @@
 	<artifactId>HandsOn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HandsOn</name>
-	<description>Hands On STS Collections Approach </description>
+	<description>Hands On STS REST API Approach </description>
 
 	<properties>
 		<java.version>11</java.version>

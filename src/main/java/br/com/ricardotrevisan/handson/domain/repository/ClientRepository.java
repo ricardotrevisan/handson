@@ -6,6 +6,10 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import br.com.ricardotrevisan.handson.domain.model.Client;
 
+/*
+ * Option by Spring Data JPA (instead of Hibernate)
+ * 
+ * */
 
 @Repository
 public interface ClientRepository extends JpaRepository<Client, Long>{
