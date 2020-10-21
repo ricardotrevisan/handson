@@ -6,10 +6,10 @@
 ## CRUD exposto como Microsserviços, montado em Java com Spring Tools Suite 4
 
 ## Estrutura:
-  Rápida exposição de microserviços para manipulação de informações sobre a entidade Cliente (unica).
-  Demonstra ganhos de produtividade promovidos pelo Spring Framework. 
+  Rápida exposição de microsserviços para manipulação de informações sobre a entidade Cliente (única).
+  O template demonstra ganhos de produtividade promovidos pelo Spring Framework. 
   
-  Sinteticamente, o uso da padronização de configurações proposta pelo *Spring Boot* nos garante a minima atuação na composição de serviços e dependências necessárias a aplicaçõ. E a decorrente combinação do recurso de metadados - Java Annotations (inserido desde a versão 1.5) - simplificando a alocação de recursos com o Wiring. 
+  Sinteticamente, o uso da padronização de configurações proposta pelo *Spring Boot* nos garante a minima atuação na composição de serviços e dependências necessárias a aplicações. Fundado sobre o MAVEN e servido pelos Spring Starters, componentes e módulos são rapidamente inseridos no contexto do projeto. Nota-se também a decorrente combinação do recurso de metadados - Java Annotations (inserido lá na versão 1.5) - simplificando a alocação de recursos com o Wiring. 
   
   @Resource, @Inject e @Autowired são exemplos (o ultimo adicionado pelo framework Spring), mas os processos de validação de input (@Validate) ou mesmo os de métodos HTTP implementados/disponíveis (@GetMapping, @PostMapping, @PutMapping, @DeleteMapping) são beneficiados pela combinação. 
   
