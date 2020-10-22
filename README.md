@@ -8,7 +8,9 @@
   Em rápida exposição de microsserviços para manipulação de informações de Backend - entidade única, Cliente - o projeto é um template demonstrando ganhos de produtividade promovidos pelo Spring Framework. 
   
   Sinteticamente, o uso da padronização de configurações proposta pelo *Spring Boot* alivia esforços de configuração e consumo de serviços definidos na Arquitetura da Solução. 
-  Fundado sobre o MAVEN e servido pelos Spring Starters, componentes e módulos são rapidamente inseridos no contexto do projeto, garantindo minima intervenção e anulando  derivação de elementos específicos de cada ambiente ou preferências de Desenvolvimento/or. Notavel também a decorrente combinação do recurso de metadados - Java Annotations, inserido lá na versão 1.5 - simplificando a alocação de recursos (processo conhecido como Wiring). 
+  Fundado sobre o MAVEN e servido pelos Spring Starters, componentes e módulos são rapidamente inseridos no contexto do projeto, garantindo minima intervenção e anulando  derivação de elementos específicos de cada ambiente ou preferências de Desenvolvimento/or. 
+  
+  Notavel a decorrente combinação do recurso de metadados - Java Annotations, inserido lá na versão 1.5 - simplificando a alocação de recursos (processo conhecido como Wiring). 
   
   @Resource, @Inject e @Autowired são exemplos (o ultimo adicionado pelo framework Spring), mas os processos de validação de input (@Validate) ou mesmo os de métodos HTTP implementados/disponíveis (@GetMapping, @PostMapping, @PutMapping, @DeleteMapping) são beneficiados pela combinação e rapidamente viabilizados.  
   
